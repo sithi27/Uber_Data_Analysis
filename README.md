@@ -216,4 +216,7 @@ Final Year Student · Diploma in Engineering, Computer Science
 
 *This project is for educational purposes. Dataset is synthetic/anonymized.*
 
+<img width="903" height="508" alt="image" src="https://github.com/user-attachments/assets/ee7e1ce5-afcf-4d34-b9f9-115b458225ed" />
+
+
 </div>
