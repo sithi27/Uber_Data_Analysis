@@ -195,6 +195,8 @@ Open `uber_dashboard_final.pbix` in [Power BI Desktop](https://powerbi.microsoft
 ---
 
 <div align="center">
+<img width="903" height="508" alt="image" src="https://github.com/user-attachments/assets/49dae0e3-7bb9-4fa2-9118-06393cb98d2a" />
+
 
 ## Author
 
@@ -216,7 +218,7 @@ Final Year Student · Diploma in Engineering, Computer Science
 
 *This project is for educational purposes. Dataset is synthetic/anonymized.*
 
-<img width="903" height="508" alt="image" src="https://github.com/user-attachments/assets/ee7e1ce5-afcf-4d34-b9f9-115b458225ed" />
+
 
 
 </div>
