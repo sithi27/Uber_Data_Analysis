@@ -193,6 +193,8 @@ Open `uber_dashboard_final.pbix` in [Power BI Desktop](https://powerbi.microsoft
 | `Driver_ID` | Anonymized driver identifier |
 
 ---
+<img width="902" height="498" alt="image" src="https://github.com/user-attachments/assets/661dbcd8-52ab-4b00-bc1a-a91e52bec94d" />
+
 
 <div align="center">
 
@@ -219,7 +221,7 @@ Final Year Student · Diploma in Engineering, Computer Science
 *This project is for educational purposes. Dataset is synthetic/anonymized.*
 
 
-<img width="902" height="498" alt="image" src="https://github.com/user-attachments/assets/f5ec2a30-9804-41cb-b04c-ae96269eb7e3" />
+
 
 
 
